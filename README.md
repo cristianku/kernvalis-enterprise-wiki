@@ -21,4 +21,4 @@ Kernvalis Industries, Inc. is a fictional US industrial automation, robotics and
 - [Historical policy change](wiki/history/2025-credit-policy-change.md)
 - [Documentation specification](authoring/specification.md)
 
-The first release is a seed corpus, not the completed dataset. Benchmark answers and generation metadata should remain outside the ingested wiki to avoid leakage.
+The corpus now contains over 3,000 Markdown knowledge pages, including deterministic synthetic operational records across commercial, service, manufacturing, procurement and IT domains. These records use shared identifiers and cross-document references; some document families intentionally share standard enterprise record structures. This is a synthetic benchmark dataset, not a corpus of real-world corporate prose. The six-digit Git revision and the exact wiki file inventory should be recorded per benchmark. No application source code is required to answer the enterprise questions. Benchmark answers and generation metadata should remain outside the ingested wiki to avoid leakage.
